@@ -117,7 +117,6 @@ include:
   - board: xiao_ble//zmk
     shield: clog_v4_left
     artifact-name: clog_v4_left
-    cmake-args: *cmake-args
   - board: xiao_ble//zmk
     shield: clog_v4_right
     artifact-name: clog_v4_right
